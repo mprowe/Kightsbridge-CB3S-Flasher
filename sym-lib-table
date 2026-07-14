@@ -1,4 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "CB3S") (type "KiCad") (uri "${KIPRJMOD}/CB3S.kicad_sym") (options "") (descr ""))
-)
